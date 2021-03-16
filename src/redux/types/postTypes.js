@@ -1,0 +1,7 @@
+export const POST_CLOSE = 'POST_CLOSE'
+export const POST_OPEN = 'POST_OPEN'
+export const POST_SAVE = 'POST_SAVE'
+export const POST_DELETE = 'POST_DELETE'
+export const POST_EDIT_OPEN = 'POST_EDIT_OPEN'
+export const POST_EDIT_CLOSE = 'POST_EDIT_CLOSE'
+export const POST_EDIT = 'POST_EDIT'
